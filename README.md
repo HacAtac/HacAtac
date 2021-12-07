@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [hacSocializeApi](https://github.com/HacAtac/hacSocializeApi)
 
-- 🌱 I’m currently learning **MongoDB, Mongoose, React**
+- 🌱 I’m currently learning **MongoDB, Mongoose, React, and PWA's**
 
 - 👯 I’m looking to collaborate with other developers. **Open to any work**
 
