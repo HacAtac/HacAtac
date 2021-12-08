@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🔭 I’m currently working on [hacSocializeApi](https://github.com/HacAtac/hacSocializeApi)
+- 🔭 I’m currently working on [hacSocializeApi] (https://github.com/HacAtac/hacSocializeApi), and learning React. 
 
 - 🌱 I’m currently learning **MongoDB, Mongoose, React, and PWA's**
 
