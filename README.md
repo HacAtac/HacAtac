@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🔭 I’m currently working on [hacBudgetTracPWA] (https://github.com/HacAtac/hacBudgetTracPWA), and learning React. 
+- 🔭 I’m currently working on [A React Portfolio] (https://github.com/HacAtac/hac-portfolio), to hone in my React skills. 
 
 - 🌱 I’m currently learning **MongoDB, Mongoose, React, and PWA's**
 
