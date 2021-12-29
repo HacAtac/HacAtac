@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🔭 I’m currently working on [graphQL to help with API] (https://github.com/HacAtac/MERNql), to hone in my React skills. 
+- 🔭 I’m currently working on [graphQL with apollo to help with API] (https://github.com/HacAtac/MERNql), to hone in my React skills. 
 
 - 🌱 I’m currently learning **GraphQL, React **
 
