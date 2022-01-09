@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🔭 I’m currently working on [Client CRM system for his auto detailing business.] (https://github.com/HacAtac/Hac-BookSearch-QL), to hone in my React skills. 
+- 🔭 I’m currently working on [Hotel Booking App] (https://github.com/HacAtac/HotelBookingHac), using MERN stack. 
 
 - 🌱 I’m currently learning **GraphQL, React, starting on Redux now to help with state management.**
 
