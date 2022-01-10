@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **jhack00@icloud.com, (512)779-1870, https://www.linkedin.com/in/jordan-hackworth-898205217/**
 
-- ⚡ Fun fact **Dogs are so amazing to me and I'm happy that I have the best boi in the world! I also love to golf and spend time with loved ones.**
+- ⚡ Fun fact **OOO BOI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
