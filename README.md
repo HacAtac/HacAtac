@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🔭 I’m currently working on [Redux-State-Management] (https://github.com/HacAtac/Redux-State-Mangement), using MERN stack. 
+- 🔭 I’m currently working on [Refactoring Some Projects] (PLACEHOLDER), mainly changing some payment options. 
 
 - 🌱 I’m currently learning **GraphQL, React, starting on Redux now to help with state management.**
 
