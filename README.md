@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🔭 I’m currently working on [Refactoring Some Projects] (PLACEHOLDER), mainly changing some payment options. 
+- 🔭 I’m currently working on [Redux and Payment Methods] (PLACEHOLDER), I'm getting the hang of using Redux for global state mangement and Stripe for payments. 
 
 - 🌱 I’m currently learning **GraphQL, React, starting on Redux now to help with state management.**
 
