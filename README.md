@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GraphQL, React, starting on Redux now to help with state management.**
 
-- 👯 I’m looking to collaborate with other developers. **Open to any work**
+- 👯 I’m looking to collaborate with other developers. **Would love to help with any front end or back end projects. Can help with a lot.**
 
 - 🤝 I’m looking for help with [Ecommerence/Page Checkout](https://github.com/osbym/awsome-organics-gp2)
 
