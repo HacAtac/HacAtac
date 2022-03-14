@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🔭 I’m currently working on [A Job Application Tracker] (PLACEHOLDER), I wanted to refresh my memory with sql and RESTful APIs and how to use them with react(posibly with Axios). 
+- 🔭 I’m currently working on [A Job Application Tracker and Business Apps] (PLACEHOLDER), I wanted to refresh my memory with sql and RESTful APIs and how to use them with react(posibly with Axios). 
 
 - 🌱 I’m currently learning **Different payment methods, Streaming services, creating VoDs. Lot's of CRUD methods.**
 
