@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [A Job Application Tracker and Business Apps] (PLACEHOLDER), I wanted to refresh my memory with sql and RESTful APIs and how to use them with react(posibly with Axios). 
 
-- 🌱 I’m currently learning **Different payment methods, Streaming services, creating VoDs. Lot's of CRUD methods.**
+- 🌱 I’m currently learning **Different payment methods, Streaming services, creating VoDs. Lot's of CRUD methods. How to keep data coming from the client side secure, and faster and more efficient algorithms to make things work smoother.**
 
 - 👯 I’m looking to collaborate with other developers. **Would love to help with any front end or back end projects. Can help with a lot.**
 
