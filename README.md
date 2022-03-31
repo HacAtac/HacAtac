@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MERN Ecom App] (PLACEHOLDER), This app will use REDUX, express, React-Router, React-Bootstrap Components, paganition, shopping cart, and checkout systems.
 
-- 🌱 I’m currently learning **Different payment methods, Streaming services, creating VoDs. Lot's of CRUD methods. How to keep data coming from the client side secure, and faster and more efficient algorithms to make things work smoother.**
+- 🌱 I’m currently learning **Different payment methods, Streaming services, creating VoDs. Lot's of CRUD methods III. How to keep data coming from the client side secure, and faster and more efficient algorithms to make things work smoother.**
 
 - 👯 I’m looking to collaborate with other developers. **Would love to help with any front end or back end projects. Can help with a lot.**
 
