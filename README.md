@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🔭 I’m currently working on [MERN Ecom App] (PLACEHOLDER), This app will use REDUX, express, React-Router, React-Bootstrap Components, paganition, shopping cart, and checkout systems.
+- 🔭 I’m currently working on [MERN Ecom App] (PLACEHOLDER), This app will use REDUX, express, React-Router, React-Bootstrap Components, paganition, shopping cart, and checkout systems..
 
 - 🌱 I’m currently learning **Different payment methods, Streaming services. Lot's of CRUD methods. How to keep data coming from the client side secure, and faster and more efficient algorithms to make things work smoother.**
 
