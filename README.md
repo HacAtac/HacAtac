@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🔭 I’m currently finishing up on [MERN Ecom App] (PLACEHOLDER), This app will use REDUX, express, React-Router, React-Bootstrap Components, paganition, shopping cart, and checkout systems.... All that's left is Product CRUD for Admin user and clean up UI and add paganation etc..
+- 🔭 I've completed my newShop ecomm application, This app uses the MERN stack with tech like REDUX, Styled Components, authentication for Users, Admins, CRUD methods, custom middleware and much more. I will be adding more to this appliaction as I learn new technology.
 
-- 🌱 I’m currently learning **Different payment methods, Streaming services. Lot's of CRUD methods. How to keep data coming from the client side secure, and faster and more efficient algorithms to make things work smoother.**
+- 🌱 I’m currently learning **Different payment methods, Streaming services. Lot's of CRUD methods.Consuming back end API to make a robust front end.**
 
 - 👯 I’m looking to collaborate with other developers. **Would love to help with any front end or back end projects. Can help with a lot.**
 
