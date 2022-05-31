@@ -7,7 +7,7 @@
 
 - 🔭 I've completed my newShop ecomm application, This app uses the MERN stack with tech like REDUX, Styled Components, authentication for Users, Admins, CRUD methods, custom middleware and much more. I will be adding more to this appliaction as I learn new technology. Now I'm searching for my next project. I want to learn sockets for things like live chat applications etc.
 
-- 🌱 I’m currently learning ***Different payment methods, Streaming services Lot's of CRUD methods.Consuming back end API to make a robust front end.**
+- 🌱 I’m currently learning ***Different payment methods, Streaming services Lot's of CRUD methods. Consuming back end API to make a robust front end. And Working on my weak areas like SQL without ORM etc etc..**
 
 - 👯 I’m looking to collaborate with other developers. **Would love to help with any front end or back end projects. Can help with a lot.**
 
