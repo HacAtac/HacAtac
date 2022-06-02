@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🔭 I've completed my newShop ecomm application, This app uses the MERN stack with tech like REDUX, Styled Components, authentication for Users, Admins, CRUD methods, custom middleware and much more. I will be adding more to this appliaction as I learn new technology. Now I'm searching for my next project. I want to learn sockets for things like live chat applications etc.
+- 🔭 I've completed my newShop ecomm application, This app uses the MERN stack with tech like REDUX, Styled Components, authentication for Users, Admins, CRUD methods, custom middleware and much more. I will be adding more to this appliaction as I learn new technology. Refactoring old projects untill I decide on my next project. I want to learn sockets for things like live chat applications etc.
 
 - 🌱 I’m currently learning ***Different payment methods, Streaming services Lot's of CRUD methods. Consuming back end API to make a robust front end. And Working on my weak areas like SQL without ORM etc etc..**
 
