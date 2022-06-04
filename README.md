@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Ecommerence/Page Checkout](https://github.com/osbym/awsome-organics-gp2)
 
-- 👨‍💻 All of my projects are available at [https://github.com/HacAtac](https://github.com/HacAtac)
+- 👨‍💻 All of my projects are available at [https://github.com/HacAtac].(https://github.com/HacAtac)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jordan-hackworth-898205217/](https://www.linkedin.com/in/jordan-hackworth-898205217/)
 
