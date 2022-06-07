@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **jhack00@icloud.com, (512)779-1870, https://www.linkedin.com/in/jordan-hackworth-898205217/**
 
-- ⚡ Fun facts ****
+- ⚡ Fun facts! ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
