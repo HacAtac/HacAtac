@@ -5,13 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🔭 I've completed my newShop ecomm application, This app uses the MERN stack with tech like REDUX, Styled Components, authentication for Users, Admins, CRUD methods, custom middleware and much more. I will be adding more to this appliaction as I learn new technology. Refactoring old projects untill I decide on my next project. I want to learn sockets for things like live chat applications etc.
+- 🔭 I've just completed a Python/Django/Postgres Realtor webpage and feel in love with the Django framework. I have it deployed and will put a link here soon.
+-    I'm also refactoring a lot of my projects and looking for a new role, feel free to reach out with any opportunities.
 
-- 🌱 I’m currently learning ***Different payment methods, Streaming services Lot's of CRUD methods. Consuming back end API to make a robust front end. And Working on my weak areas like SQL without ORM etc etc...**
+- 🌱 I’m currently learning Python with Django, and Postgres. I'm profecient with JavaScript but am always looking for more tech to add to my JavaScript arsenal.**
 
 - 👯 I’m looking to collaborate with other developers. **Would love to help with any front end or back end projects. Can help with a lot.**
 
-- 🤝 I’m looking for help with [Ecommerence/Page Checkout](https://github.com/osbym/awsome-organics-gp2)
+- 🤝 I’m looking for help with [Ecommerence/Page Checkout] on my project -->(https://github.com/osbym/awsome-organics-gp2) it utilizes server side templating with HandleBars.
 
 - 👨‍💻 All of my projects are available at [https://github.com/HacAtac].(https://github.com/HacAtac)
 
