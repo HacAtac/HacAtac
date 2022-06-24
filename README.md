@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jordan-hackworth-898205217/](https://www.linkedin.com/in/jordan-hackworth-898205217/)
 
-- 💬 Ask me about any **Front-End or Back-End help or any collaboration oppurtunities!**
+- 💬 Ask me about any **Front-End or Back-End help or any collaboration oppurtunities!!**
 
 - 📫 How to reach me **jhack00@icloud.com, (512)779-1870, https://www.linkedin.com/in/jordan-hackworth-898205217/**
 
