@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Python with Django, and Postgres. I'm profecient with JavaScript but am always looking for more tech to add to my JavaScript arsenal.**
 
-- 👯 I’m looking to collaborate with other developers. **Would love to help with any front end or back end projects. Can help with a lot.**
+- 👯 I’m looking to collaborate with other developers. **Would love to help with any front end or back end projects. Can help with a lot**
 
 - 🤝 I’m looking for help with [Ecommerence/Page Checkout] on my project -->(https://github.com/osbym/awsome-organics-gp2) it utilizes server side templating with HandleBars.
 
