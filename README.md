@@ -20,7 +20,7 @@
 
 - 💬 Ask me about any **Front-End or Back-End help or any collaboration oppurtunities!!**
 
-- 📫 How to reach me **jhack00@icloud.com, (512)779-1870, https://www.linkedin.com/in/jordan-hackworth-898205217/**
+- 📫 How to reach me **jhackworth00@outlook.com, (512)779-1870, https://www.linkedin.com/in/jordan-hackworth-898205217/**
 
 - ⚡ Fun facts! **
 
