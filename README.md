@@ -9,7 +9,7 @@
 -    I'm also refactoring a lot of my projects and looking for a new role, feel free to reach out with any opportunities. I'm also working on a person project for fun that uses mySQL, React, Redux, Node.
 
 - 🌱 I’m currently learning Python with Django, and Postgres. I'm profecient with JavaScript but am always looking for more tech to add to my JavaScript arsenal.
-I'm working heavily on my Job Projecsts so haven't been doing a lot of person projects, but will be starting one up soon for fun!**
+I'm working heavily on my Job Projects so haven't been doing a lot of person projects, but will be starting one up soon for fun!**
 
 - 👯 I’m looking to collaborate with other developers. **Would love to help with any front end or back end projects. Can help with a lot**
 
