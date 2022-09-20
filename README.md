@@ -13,7 +13,7 @@ I'm working heavily on my Job Projects so haven't been doing a lot of person pro
 
 - 👯 I’m looking to collaborate with other developers. **Would love to help with any front end or back end projects. Can help with a lot**
 
-- 🤝 I’m looking for help with [Ecommerence/Page Checkout] on my project -->(https://github.com/osbym/awsome-organics-gp2) it utilizes server side templating with HandleBars.
+- 🤝 I’m looking to learn from others and give back to the communtity to the best of my abilities.
 
 - 👨‍💻 All of my projects are available at [https://github.com/HacAtac].(https://github.com/HacAtac)
 
@@ -21,7 +21,7 @@ I'm working heavily on my Job Projects so haven't been doing a lot of person pro
 
 - 💬 Ask me about any **Front-End or Back-End help or any collaboration oppurtunities!!**
 
-- 📫 How to reach me **jhackworth00@outlook.com, (512)779-1870, https://www.linkedin.com/in/jordan-hackworth-898205217/**
+- 📫 How to reach me **jhackworth00@outlook.com, (512) 779-1870, https://www.linkedin.com/in/jordan-hackworth-898205217/**
 
 - ⚡ Fun facts! **
 
