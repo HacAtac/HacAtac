@@ -8,10 +8,10 @@
 - 🔭 I've just completed a Python/Django/Postgres Realtor webpage and feel in love with the Django framework. I have it deployed and will put a link here soon.
 -    I'm also refactoring a lot of my projects and looking for a new role, feel free to reach out with any opportunities. I'm also working on a person project for fun that uses mySQL, React, Redux, Node.
 
-- 🌱 I’m currently learning Python with Django, and Postgres. I'm profecient with JavaScript but am always looking for more tech to add to my JavaScript arsenal.
-I'm working heavily on my Job Projects so haven't been doing a lot of person projects, but will be starting one up soon for fun.**
+- 🌱 I’m currently learning Python with Django, and Postgres. Angular with C sharp for backend. I'm profcient with JavaScript but am always looking for more tech to add to my JavaScript arsenal.
+I'm working heavily on my Job Projects so haven't been doing a lot of personal projects, but will be starting one up soon for fun.**
 
-- 👯 I’m looking to collaborate with other developers. **Would love to help with any front end or back end projects. Can help with a lot**
+- 👯 I’m looking to collaborate with other developers. **Would love to help with any front or back end projects. Can help with a lot**
 
 - 🤝 I’m looking to learn from others and give back to the communtity to the best of my abilities.
 
