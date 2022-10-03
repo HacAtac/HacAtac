@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Python with Django, and Postgres. Angular with C sharp for backend. I'm profcient with JavaScript but am always looking for more tech to add to my JavaScript arsenal.
 I'm working heavily on my Job Projects so haven't been doing a lot of personal projects, but will be starting one up soon for fun.**
 
-- 👯 I’m looking to collaborate with other developers. **Would love to help with any front or back end projects. Can help with a lot**
+- 👯 I’m looking to collaborate with other developers. **Would love to help with any front or back end projects. Can reach me at jhackworth00@outlook.com**
 
 - 🤝 I’m looking to learn from others and give back to the communtity to the best of my abilities.
 
