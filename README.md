@@ -17,7 +17,7 @@ I'm working heavily on my Job Projects so haven't been doing a lot of personal p
 
 - 👨‍💻 All of my projects are available at [https://github.com/HacAtac].(https://github.com/HacAtac)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/jordan-hackworth-898205217/](https://www.linkedin.com/in/jordan-hackworth-898205217/)
+- 📝 I regularly write articles on: [https://www.linkedin.com/in/jordan-hackworth-898205217/](https://www.linkedin.com/in/jordan-hackworth-898205217/)
 
 - 💬 Ask me about any **Front-End or Back-End help or any collaboration oppurtunities!!**
 
