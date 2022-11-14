@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🔭 I've just completed a Python/Django/Postgres Realtor webpage and feel in love with the Django framework. I have it deployed and will put a link here soon.
--    I'm also refactoring a lot of my projects and looking for a new role, feel free to reach out with any opportunities. I'm also working on a person project for fun that uses mySQL, React, Redux, Node.
-
 - 🌱 I’m currently learning focused on learning Java, Spring Boot, and Angular. I'm proficient with JavaScript but am always looking for more tech to add to my programming arsenal.
 I'm working heavily on my Job Projects so haven't been doing a lot of personal projects, but will be starting one up soon for fun.**
 
