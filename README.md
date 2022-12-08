@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🌱 I’m currently learning focused on learning Java, Spring Boot, and Angular. I'm proficient with JavaScript but am always looking for more tech to add to my programming arsenal.
-I'm working heavily on my Job Projects so haven't been doing a lot of personal projects, but will be starting one up soon for fun.**
+- 🌱 I’m currently focused on learning Java, Spring Boot, and Microservices with Spring. I'm proficient with JavaScript but am always looking for more tech to add to my programming arsenal.
 
 - 👯 I’m looking to collaborate with other developers. **Would love to help with any front or back end projects. Can reach me at jhackworth00@outlook.com**
 
