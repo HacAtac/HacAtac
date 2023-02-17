@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking to learn from others and give back to the communtity to the best of my abilities.
 
-- 👨‍💻 All of my projects are available at [https://github.com/HacAtac].(https://github.com/HacAtac)
+- 👨‍💻 All of my projects are available at: [https://github.com/HacAtac].(https://github.com/HacAtac)
 
 - 📝 I regularly write articles on: [https://www.linkedin.com/in/jordan-hackworth-898205217/](https://www.linkedin.com/in/jordan-hackworth-898205217/)
 
