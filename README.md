@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hacatac" alt="hacatac" /></a> </p>
 
-- 🌱 I’m currently focused on honinig in Java, Spring Boot, Microservices with Spring, Api Gateways, and securing everything with Spring Security and OAuth2.0. I'm proficient with JavaScript but am always looking for more tech to add to my programming arsenal. :)
+- 🌱 I’m currently proficient with Java, Spring Boot, Microservices with Spring, Api Gateways, and securing everything with Spring Security and OAuth2.0. I'm also proficient with full stack JavaScript with various techonoligies but am always looking for more tech to add to my programming arsenal. :)
 
 - 👯 I’m looking to collaborate with other developers. **Would love to help with any front or back end projects. Can reach me at jhackworth00@outlook.com**
 
