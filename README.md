@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently proficient with Java, Spring Boot, Microservices with Spring, Api Gateways, and securing everything with Spring Security and OAuth2.0. I'm also proficient with full stack JavaScript with various techonoligies but am always looking for more tech to add to my programming arsenal. :)
 
-- 👯 I’m looking to collaborate with other developers. **Would love to help with any front or back end projects. Can reach me at jhackworth00@outlook.com**
+- 👯 I’m looking to collaborate with other developers. **Would love to help with front && back end projects. Can reach me at jhackworth00@outlook.com**
 
 - 🤝 I’m looking to learn from others and give back to the communtity to the best of my abilities.
 
