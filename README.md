@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jhackworth00@outlook.com, https://www.linkedin.com/in/jordan-hackworth-898205217/**
 
-- ⚡ Fun facts: *** Coming Soon
+- ⚡ Fun facts: **** Coming Soon
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
