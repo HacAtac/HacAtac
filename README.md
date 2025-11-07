@@ -21,7 +21,7 @@
 
 - 💬 Ask me about any **front-end or back-end help or any collaboration opportunities!**
 
-- 📫 How to reach me: **jhackworth00@outlook.com**, [LinkedIn](https://www.linkedin.com/in/jordan-hackworth-898205217/)
+- 📫 How to reach me: ****, [LinkedIn](https://www.linkedin.com/in/jordan-hackworth-898205217/)
 
 - ⚡ Fun facts: **Coming Soon**
 
