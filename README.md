@@ -13,7 +13,7 @@
 
 - 🌱 I’m proficient with Java, Spring Boot, Microservices with Spring, API Gateways, and securing everything with Spring Security and OAuth2.0. I'm also proficient with full stack JavaScript with various technologies but am always looking for more tech to add to my programming arsenal. I've been heavily working in Bitbucket in private repos, so my GitHub logs aren't as green as I'd like them to be.
 
-- 👯 I’m looking to collaborate with other developers. **Would love to help with front & back end projects. Can reach me at jhackworth00@outlook.com**
+- 👯 I’m looking to collaborate with other developers. **Would love to help with front & back end projects. Can raise any issue on any repo and we can work together.**
 
 - 🤝 I’m looking to learn from others and give back to the community to the best of my abilities.
 
